@@ -71,3 +71,5 @@ function fancyAlert(arg) {
 ```
 
 # Elfin Sanjaya
+
+# part 2
